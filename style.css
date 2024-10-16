@@ -42,7 +42,7 @@ article h2 {
 }
 
 .article-meta {
-    color: rgb(134, 142, 150);
+    color: rgb(109, 49, 49);
     margin-bottom: 5px;
 }
 
@@ -53,7 +53,7 @@ article img {
 }
 
 .news article:nth-of-type(even) {
-    background-color: #f18181;
+    background-color: #a570d6;
 }
 
 .news article:nth-of-type(1) h2::before,
